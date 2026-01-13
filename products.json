@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ro-001",
+    "category": "Water Purifier",
+    "name": "Kent Grand+ RO (New Edition)",
+    "badge": "Best for High TDS",
+    "image": "https://m.media-amazon.com/images/I/71rH9-f1CXL._SX679_.jpg",
+    "price": "₹14,500",
+    "rating": 4.5,
+    "summary": "Agar aapka TDS 1000 se upar hai, toh ye best option hai. Maintenance thoda mehenga hai, lekin paani ka taste sabse consistent hai.",
+    "pros": [
+      "High purification capacity (20L/hr)",
+      "Reliable service network in India",
+      "UV light in tank keeps water bacteria-free"
+    ],
+    "cons": [
+      "Waste water bahut nikalta hai",
+      "Annual filter change cost is high (~₹4000)"
+    ],
+    "affiliate_link": "https://www.amazon.in/dp/YOUR_LINK_HERE"
+  },
+  {
+    "id": "air-001",
+    "category": "Air Purifier",
+    "name": "Coway AirMega 150",
+    "badge": "Best Value",
+    "image": "https://m.media-amazon.com/images/I/51ZzM5G5+HL._SX679_.jpg",
+    "price": "₹12,900",
+    "rating": 4.8,
+    "summary": "Simple, no-nonsense purifier. Koi fancy wifi features nahi hain, bas solid cleaning performance hai. Filters khud saaf kiye ja sakte hain.",
+    "pros": [
+      "Washable Pre-filter (Cost saving)",
+      "Silent operation (Good for bedrooms)",
+      "Thick HEPA filter class 13"
+    ],
+    "cons": [
+      "No App/Wifi connectivity",
+      "Design thoda purana lagta hai"
+    ],
+    "affiliate_link": "https://www.amazon.in/dp/YOUR_LINK_HERE"
+  }
+]
